@@ -1,6 +1,7 @@
 {
 	"name": "Avana Test 2",
     "description": "Exercise 2",
+	"readme": "./README.md",
     "authors": [
         {
             "name": "Jawad Humayun",
